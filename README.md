@@ -1,8 +1,7 @@
 
 
 
-![mi perfil](https://res.cloudinary.com/dvxf1glwt/image/upload/v1695531874/llxov8butdlq0ikytuos.gif)
-
+![mi perfil](https://res.cloudinary.com/dvxf1glwt/image/upload/v1695533422/iicnoqoevmvn1zullj01.gif)
 
 <h1 align="center">Hi 👋, I'm Atul Bhangale</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
